@@ -7,3 +7,4 @@ The is a repository for all my assessment for the SheCode Academy
 
 print("Hello, you are welcome to my devops repo!")
 
+Testing Git update
